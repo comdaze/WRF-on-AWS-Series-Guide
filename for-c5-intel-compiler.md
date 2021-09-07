@@ -1,9 +1,4 @@
 # AWS ParallelCluster, Slurm, Spack, Intel Compiler and WRF4.2.2 on China Region c5 instance
-
-作者：Sean Yang
-邮件：[zhihay@amazon.com](mailto:zhihay@amazon.com)
-欢迎指教，指错和探讨！
-
 ## 安装parallelcluster
 
 按照如下修改配置文件.parallelcluster/config
